@@ -52,3 +52,15 @@ button:hover{
     color: LightGrey;
 }
 
+@media screen and (max-width: 600px) {
+
+    body{
+
+        background-image: url(img/bbq.jpg);
+        background-repeat: no-repeat;
+        background-size: auto;
+
+    }
+}
+
+
